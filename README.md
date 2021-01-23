@@ -1,6 +1,6 @@
 #### Multipurpose Scripts
 
-##### Python Scripts for many usages, written following demand.
+##### Python Scripts for many usages, written following a demand.
 
 I started with a need to delete all the *.srt files from many folders that I had, it was too long to do manually, here Python helps. 
 
